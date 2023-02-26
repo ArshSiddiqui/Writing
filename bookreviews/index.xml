@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Arsh Siddiqui</title>
-    <link>https://arshsiddiqui.github.io/writing/</link>
-    <description>Recent content on Arsh Siddiqui</description>
+    <title>Book Reviews on Arsh Siddiqui</title>
+    <link>https://arshsiddiqui.github.io/writing/bookreviews/</link>
+    <description>Recent content in Book Reviews on Arsh Siddiqui</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 25 Feb 2023 16:20:02 -0500</lastBuildDate><atom:link href="https://arshsiddiqui.github.io/writing/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://arshsiddiqui.github.io/writing/bookreviews/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Tale of Two Cities</title>
       <link>https://arshsiddiqui.github.io/writing/bookreviews/ataleoftwocities/</link>
@@ -43,16 +42,6 @@ Overall, this book was enjoyable. There were certainly poems I enjoyed, and the 
     </item>
     
     <item>
-      <title>Real Programmers Use Gmail</title>
-      <link>https://arshsiddiqui.github.io/writing/oldwriting/realprogrammersusegmail/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arshsiddiqui.github.io/writing/oldwriting/realprogrammersusegmail/</guid>
-      <description>Real Programmers Use Gmail#I was recently having a conversation with a good friend of mine from the university. We were both students of the computer, or Computer Science majors as most people knew us by. During this conversation, I happened upon a question then that did intrigue me greatly: “What do you use to code?”.
-See, this programmer (along with many others at my school) happen to use the IDE (the meaning of which doesn’t matter, but I DuckDuckGoed it, and it means Integrated Development Environment if you really care) of Eclipse.</description>
-    </item>
-    
-    <item>
       <title>Romeo and Julliet</title>
       <link>https://arshsiddiqui.github.io/writing/bookreviews/romeoandjulliet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -61,16 +50,6 @@ See, this programmer (along with many others at my school) happen to use the IDE
       <description>Romeo and Julliet#William Shakespeare#February 19, 2022
 4/5
 Given the many varying reviews of this novel that I&amp;rsquo;ve seen here, I was curious to see what I&amp;rsquo;d think of it after having finished reading the story. I didn&amp;rsquo;t know a lot about the story beforehand (besides whatever is in the public consciousness), and it&amp;rsquo;d taken me long enough to get round to the book, so I dived right on it.</description>
-    </item>
-    
-    <item>
-      <title>Stock Analysis</title>
-      <link>https://arshsiddiqui.github.io/writing/technical/stockanalysis/stockanalysis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arshsiddiqui.github.io/writing/technical/stockanalysis/stockanalysis/</guid>
-      <description>Stock Analysis#Given the ubiquity of the financial market in our day to day lives, and with my personal interest in stocks I figured that now would be as good of a time as any to learn how to analyze stocks with code.
-Given its current ubiquity in the field and with its abundance of libraries that would make learning more about this field, I elected to proceed with Python.</description>
     </item>
     
     <item>
@@ -105,54 +84,6 @@ Without laying too much on the line, this book deals a lot with vengeance, and s
       <description>The Shadow of the Wind#Carlos Ruiz Zafón#January 4, 2022
 4/5
 I found this book far easier to read than many of the previous books I&amp;rsquo;d finished. That does not necessarily make it any better, but it is something to be noted. Mostly that I have spent most of my time recently reading classics and mystery novels, so a historical fiction novel (which is interest-wise down my alley) would have likely been a different read to begin with.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://arshsiddiqui.github.io/writing/docs/aboutme/</link>
-      <pubDate>Sat, 25 Feb 2023 16:20:02 -0500</pubDate>
-      
-      <guid>https://arshsiddiqui.github.io/writing/docs/aboutme/</guid>
-      <description>Hello, my name is Arsh Siddiqui.
-This website contains a portfolio of my writing.
-Hopefully you&amp;rsquo;ll enjoy it&amp;hellip;
-Thanks for coming along!</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://arshsiddiqui.github.io/writing/docs/page-one/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arshsiddiqui.github.io/writing/docs/page-one/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://arshsiddiqui.github.io/writing/docs/page-two/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arshsiddiqui.github.io/writing/docs/page-two/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://arshsiddiqui.github.io/writing/poetry/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arshsiddiqui.github.io/writing/poetry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://arshsiddiqui.github.io/writing/posts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arshsiddiqui.github.io/writing/posts/</guid>
-      <description></description>
     </item>
     
   </channel>

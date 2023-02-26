@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://arshsiddiqui.github.io/writing/bookreviews/ataleoftwocities/</loc>
+  </url><url>
+    <loc>https://arshsiddiqui.github.io/writing/bookreviews/murderontheorientexpress/</loc>
+  </url><url>
+    <loc>https://arshsiddiqui.github.io/writing/bookreviews/poemsofrome/</loc>
+  </url><url>
     <loc>https://arshsiddiqui.github.io/writing/oldwriting/realprogrammersusegmail/</loc>
   </url><url>
+    <loc>https://arshsiddiqui.github.io/writing/bookreviews/romeoandjulliet/</loc>
+  </url><url>
     <loc>https://arshsiddiqui.github.io/writing/technical/stockanalysis/stockanalysis/</loc>
+  </url><url>
+    <loc>https://arshsiddiqui.github.io/writing/bookreviews/tellthemofbattleskingsandelephants/</loc>
+  </url><url>
+    <loc>https://arshsiddiqui.github.io/writing/bookreviews/thecountofmontecristo/</loc>
+  </url><url>
+    <loc>https://arshsiddiqui.github.io/writing/bookreviews/theshadowofthewind/</loc>
   </url><url>
     <loc>https://arshsiddiqui.github.io/writing/docs/aboutme/</loc>
     <lastmod>2023-02-25T16:20:02-05:00</lastmod>
@@ -94,6 +108,8 @@
                 hreflang="en"
                 href="https://arshsiddiqui.github.io/writing/posts/"
                 />
+  </url><url>
+    <loc>https://arshsiddiqui.github.io/writing/bookreviews/</loc>
   </url><url>
     <loc>https://arshsiddiqui.github.io/writing/categories/</loc>
     <xhtml:link
