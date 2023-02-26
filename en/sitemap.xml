@@ -2,19 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://arshsiddiqui.github.io/writing/technical/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://arshsiddiqui.github.io/writing/fr/technical/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://arshsiddiqui.github.io/writing/technical/"
-                />
-  </url><url>
     <loc>https://arshsiddiqui.github.io/writing/oldwriting/realprogrammersusegmail/</loc>
+  </url><url>
+    <loc>https://arshsiddiqui.github.io/writing/technical/stockanalysis/stockanalysis/</loc>
   </url><url>
     <loc>https://arshsiddiqui.github.io/writing/docs/aboutme/</loc>
     <lastmod>2023-02-25T16:20:02-05:00</lastmod>
@@ -105,8 +95,6 @@
                 href="https://arshsiddiqui.github.io/writing/posts/"
                 />
   </url><url>
-    <loc>https://arshsiddiqui.github.io/writing/oldwriting/</loc>
-  </url><url>
     <loc>https://arshsiddiqui.github.io/writing/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -119,6 +107,8 @@
                 href="https://arshsiddiqui.github.io/writing/categories/"
                 />
   </url><url>
+    <loc>https://arshsiddiqui.github.io/writing/oldwriting/</loc>
+  </url><url>
     <loc>https://arshsiddiqui.github.io/writing/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -129,6 +119,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://arshsiddiqui.github.io/writing/tags/"
+                />
+  </url><url>
+    <loc>https://arshsiddiqui.github.io/writing/technical/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.github.io/writing/fr/technical/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.github.io/writing/technical/"
                 />
   </url>
 </urlset>
