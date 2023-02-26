@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arsh Siddiqui</title>
-    <link>http://arshsiddiqui.github.io/</link>
+    <link>http://arshsiddiqui.github.io/fr/</link>
     <description>Recent content on Arsh Siddiqui</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Feb 2023 16:20:02 -0500</lastBuildDate><atom:link href="http://arshsiddiqui.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Feb 2023 16:20:02 -0500</lastBuildDate><atom:link href="http://arshsiddiqui.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>http://arshsiddiqui.github.io/docs/aboutme/</link>
+      <link>http://arshsiddiqui.github.io/fr/docs/aboutme/</link>
       <pubDate>Sat, 25 Feb 2023 16:20:02 -0500</pubDate>
       
-      <guid>http://arshsiddiqui.github.io/docs/aboutme/</guid>
+      <guid>http://arshsiddiqui.github.io/fr/docs/aboutme/</guid>
       <description>Hello, my name is Arsh Siddiqui.
 This website contains a portfolio of my writing.
 Hopefully you&amp;rsquo;ll enjoy it&amp;hellip;
@@ -21,37 +21,37 @@ Thanks for coming along!</description>
     
     <item>
       <title></title>
-      <link>http://arshsiddiqui.github.io/docs/page-one/</link>
+      <link>http://arshsiddiqui.github.io/fr/docs/page-one/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://arshsiddiqui.github.io/docs/page-one/</guid>
+      <guid>http://arshsiddiqui.github.io/fr/docs/page-one/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://arshsiddiqui.github.io/docs/page-two/</link>
+      <link>http://arshsiddiqui.github.io/fr/docs/page-two/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://arshsiddiqui.github.io/docs/page-two/</guid>
+      <guid>http://arshsiddiqui.github.io/fr/docs/page-two/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://arshsiddiqui.github.io/poetry/</link>
+      <link>http://arshsiddiqui.github.io/fr/poetry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://arshsiddiqui.github.io/poetry/</guid>
+      <guid>http://arshsiddiqui.github.io/fr/poetry/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://arshsiddiqui.github.io/posts/</link>
+      <link>http://arshsiddiqui.github.io/fr/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://arshsiddiqui.github.io/posts/</guid>
+      <guid>http://arshsiddiqui.github.io/fr/posts/</guid>
       <description></description>
     </item>
     
