@@ -2,17 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://arshsiddiqui.github.io/writing/fr/technical/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://arshsiddiqui.github.io/writing/technical/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://arshsiddiqui.github.io/writing/fr/technical/"
-                />
+    <loc>https://arshsiddiqui.github.io/writing/fr/bookreviews/theforest/</loc>
   </url><url>
     <loc>https://arshsiddiqui.github.io/writing/fr/docs/aboutme/</loc>
     <lastmod>2023-02-25T16:20:02-05:00</lastmod>
@@ -115,6 +105,18 @@
                 href="https://arshsiddiqui.github.io/writing/fr/categories/"
                 />
   </url><url>
+    <loc>https://arshsiddiqui.github.io/writing/fr/bookreviews/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.github.io/writing/bookreviews/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.github.io/writing/fr/bookreviews/"
+                />
+  </url><url>
     <loc>https://arshsiddiqui.github.io/writing/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -125,6 +127,18 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://arshsiddiqui.github.io/writing/fr/tags/"
+                />
+  </url><url>
+    <loc>https://arshsiddiqui.github.io/writing/fr/technical/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.github.io/writing/technical/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.github.io/writing/fr/technical/"
                 />
   </url>
 </urlset>

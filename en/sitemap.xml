@@ -130,6 +130,16 @@
                 />
   </url><url>
     <loc>https://arshsiddiqui.github.io/writing/bookreviews/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.github.io/writing/fr/bookreviews/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.github.io/writing/bookreviews/"
+                />
   </url><url>
     <loc>https://arshsiddiqui.github.io/writing/categories/</loc>
     <xhtml:link
