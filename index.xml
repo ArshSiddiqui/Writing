@@ -259,20 +259,22 @@ Thanks for coming along!</description>
     
     <item>
       <title></title>
-      <link>https://arshsiddiqui.github.io/writing/poetry/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arshsiddiqui.github.io/writing/poetry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://arshsiddiqui.github.io/writing/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://arshsiddiqui.github.io/writing/posts/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>The Best Articles I Have Read</title>
+      <link>https://arshsiddiqui.github.io/writing/others/articles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.github.io/writing/others/articles/</guid>
+      <description>The Best Articles I Have Read#These are some of the best articles I have read, those that have made me think or feel an emotion more strongly than I am used to. These may be news articles, but are more likely to be phrased in the form of stories. They are organized in terms of publication date.
+2023#What We Search For
+Both an article about the long and ongoing search for a missing person in California&amp;rsquo;s Eastern Sierra and a story about coming to terms with loss.</description>
     </item>
     
   </channel>

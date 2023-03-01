@@ -69,16 +69,6 @@
   </url><url>
     <loc>https://arshsiddiqui.github.io/writing/fr/poetry/</loc>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://arshsiddiqui.github.io/writing/poetry/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://arshsiddiqui.github.io/writing/fr/poetry/"
-                />
   </url><url>
     <loc>https://arshsiddiqui.github.io/writing/fr/posts/</loc>
     <priority>0</priority>

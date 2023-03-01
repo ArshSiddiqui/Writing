@@ -103,19 +103,6 @@
                 href="https://arshsiddiqui.github.io/writing/docs/page-two/"
                 />
   </url><url>
-    <loc>https://arshsiddiqui.github.io/writing/poetry/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://arshsiddiqui.github.io/writing/fr/poetry/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://arshsiddiqui.github.io/writing/poetry/"
-                />
-  </url><url>
     <loc>https://arshsiddiqui.github.io/writing/posts/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -155,6 +142,10 @@
   </url><url>
     <loc>https://arshsiddiqui.github.io/writing/oldwriting/</loc>
   </url><url>
+    <loc>https://arshsiddiqui.github.io/writing/others/</loc>
+  </url><url>
+    <loc>https://arshsiddiqui.github.io/writing/poetry/</loc>
+  </url><url>
     <loc>https://arshsiddiqui.github.io/writing/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -178,5 +169,7 @@
                 hreflang="en"
                 href="https://arshsiddiqui.github.io/writing/technical/"
                 />
+  </url><url>
+    <loc>https://arshsiddiqui.github.io/writing/others/articles/</loc>
   </url>
 </urlset>
