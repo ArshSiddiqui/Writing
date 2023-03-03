@@ -83,6 +83,18 @@
                 href="https://arshsiddiqui.github.io/writing/fr/posts/"
                 />
   </url><url>
+    <loc>https://arshsiddiqui.github.io/writing/fr/others/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.github.io/writing/others/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.github.io/writing/fr/others/"
+                />
+  </url><url>
     <loc>https://arshsiddiqui.github.io/writing/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"

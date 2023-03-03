@@ -143,6 +143,16 @@
     <loc>https://arshsiddiqui.github.io/writing/oldwriting/</loc>
   </url><url>
     <loc>https://arshsiddiqui.github.io/writing/others/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.github.io/writing/fr/others/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.github.io/writing/others/"
+                />
   </url><url>
     <loc>https://arshsiddiqui.github.io/writing/poetry/</loc>
   </url><url>
@@ -171,5 +181,7 @@
                 />
   </url><url>
     <loc>https://arshsiddiqui.github.io/writing/others/articles/</loc>
+  </url><url>
+    <loc>https://arshsiddiqui.github.io/writing/others/shortstories/</loc>
   </url>
 </urlset>
