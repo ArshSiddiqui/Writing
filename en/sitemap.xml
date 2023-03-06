@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://arshsiddiqui.github.io/writing/bookreviews/afarewelltoarms/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.github.io/writing/fr/bookreviews/afarewelltoarms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.github.io/writing/bookreviews/afarewelltoarms/"
+                />
+  </url><url>
     <loc>https://arshsiddiqui.github.io/writing/bookreviews/ataleoftwocities/</loc>
   </url><url>
     <loc>https://arshsiddiqui.github.io/writing/bookreviews/deathofasalesman/</loc>
